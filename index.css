@@ -1,0 +1,35 @@
+[]
+#bigwrapper {
+background-color: antiquewhite; font-family: Garamond; border: 3px solid brown; font-size: 30px;
+width: 100%; height: 1000px; margin-left: 50px; margin-right: 50px; padding-right: 10px;
+padding-left:10px; text-align: center;
+}
+
+#big_head {
+    background: brown; line-height: 2; border: 2px solid brown; width: 100%; text-align: center;
+    margin-left: 50px; margin-right: 50px; color: gold; font-size: 20px;
+}
+.first_section {
+background-color: blue; border-top: 2px solid brown; color: black;
+dispay: block;
+}
+
+#me {
+border-top: 3px solid brown;
+}
+
+#contact {
+
+}
+
+#top_menu li {
+    display: inline-block; margin: 0 15px;
+    list-style: none; padding: 3px;
+    font-style: bold; font-size: 16px; font-family: tahoma;
+    float: right;
+}
+
+#foot {
+border-top: 3px solid brown; padding-bottom: 5px;
+background-color: brown;
+}
